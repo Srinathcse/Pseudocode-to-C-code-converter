@@ -1,0 +1,6 @@
+Set total to 0
+Set gradecounter to 1
+While gradecounter is lesser than or equal to 10
+print "hi"
+Add 1 to gradecounter
+endwhile
